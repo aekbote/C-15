@@ -87,7 +87,7 @@ function draw() {
 
         boy.x=200;
         boy.y=300;
-        boy.scale= 1;
+        boy.scale= 0.9;
         
         // cashG.destroyEach;
         // diamondsG.destroyEach;
